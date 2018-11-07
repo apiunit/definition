@@ -29,14 +29,44 @@ workspace:
       quantity: 2
       
 
+workflow:
+  -
+    define a task
+    assign worker to task
+    create the next version
     
-
-project:
-  name:
-  version:
-  description:
+documentation:
+  -
+   https://dsc.kprm.gov.pl/sites/default/files/pliki/44.pdf
+   http://www.pmpp.pl/download/skrypt1.pdf
   
+project:
+  -
+    name: vodapi
+    version: 1.0
+    description: Definition, Schema and validation for environment in project
+    reason: why the project is started: next version, bugs, or features
+    risks: 
+    quality: senior-developer
+    responisble: product-owner
+
+
+management:
+  - 
+
+calendar:
+  - start: 2018
+  - end: 2019
+  - cycle: weekly
+  - meetings: daily
 team:
+  -
+    position: project manager
+    
+  -
+    position: product owner
+    
+    
   -    
     position: frontend-developer
     technologies: 
