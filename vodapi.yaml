@@ -1,3 +1,6 @@
+schema: https://schema.vodapi.com
+version: 1.0.1
+
 workspace:
   another:
     -
@@ -34,10 +37,17 @@ project:
   description:
   
 team:
-  -
-    name:
-    role:
-    email:
-    
+  -    
+    position: frontend-developer
+    technologies: 
+      - laravel
+      - jquery
+      - rest api
+   -
+    position: backend-developer
+    technologies: 
+      - laravel
+      - php 7
+      - rest api
 todo:
   - 
