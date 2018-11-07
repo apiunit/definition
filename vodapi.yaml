@@ -1,0 +1,37 @@
+workspace:
+  another:
+    -
+      type: furniture
+      name: table
+      utility: "for one person
+      
+  software:
+    -
+      name: Windows
+      version: 10 pro
+    -
+      name: docker
+      version: "newest or stable"
+
+  hardware:
+    -
+      name: Monitor
+      utility: "2k or more, screen 24inch or more, max 32inch"
+      quantity: 2
+      
+
+    
+
+project:
+  name:
+  version:
+  description:
+  
+team:
+  -
+    name:
+    role:
+    email:
+    
+todo:
+  - 
