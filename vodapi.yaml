@@ -8,11 +8,17 @@ workspace:
   software:
     -
       name: Windows
+      type: os
       version: 10 pro
     -
       name: docker
+      type: devops
       version: "newest or stable"
-
+    -
+      name: PhpStorm
+      type: ide
+      version: 'newest trial'
+      
   hardware:
     -
       name: Monitor
