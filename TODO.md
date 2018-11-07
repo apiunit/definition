@@ -92,13 +92,11 @@ Techniki oceny i wyboru inicjatyw projektu
 - nieprecyzyjne określenie wymagań
 
 
+Etapy
 
-# Definiowanie projektu
-Pierwszym etapem projektu jest definiowanie, ma ono charakter koncepcyjny. Jest ono bardzo ważne w późniejszych cyklach. Na tym etapie należy zdefiniować zakres prac niezbędnych do wykonania, oraz podzielenie ich między członków zespołu. Możemy wyróżnić tutaj trzy podetapy takie jak:
+# Projektu, Definiowanie
 
-
-
-## Inicjowanie Projektu.
+## Inicjowanie Projektu, init
 Inicjacja projektu polega na współpracy kierownika projektu z klientami. Należy na tym etapie dojść do porozumienia w najważniejszych aspektach, oraz określenie zakresu projektu. Pomocna tutaj może byś odpowiedź na następujące pytania.
 
 Czego dotyczy projekt?
@@ -107,7 +105,9 @@ Jakie są kamienie milowe w projekcie, niezbędne do zrealizowania celu?
 W jaki sposób ocenimy sukces projektu?
 Jakie jest ryzyko związane z tym projektem?
 
-## Definiowanie projektu.
+## Definiowanie projektu, config
+Na tym etapie należy zdefiniować zakres prac niezbędnych do wykonania, oraz podzielenie ich między członków zespołu. Możemy wyróżnić tutaj trzy podetapy takie jak:
+
 Definiowanie projektu ma na celu określenie tematu projektu, objaśnienie jego istoty, celu oraz zakresu przedsięwzięcia. Powinno ono zawierać następujące etapy:
 
 Interpretacja tematu projektu.
@@ -118,7 +118,7 @@ Ocena nakładów i korzyści związanych z realizacją projektu.
 Podjęcie decyzji o realizacji projektu.
 Wyznaczenie celów realizacji projektu.
 
-## Budowanie zespołu projektowego.
+## Budowanie zespołu projektowego, create
 Budowanie zespołu projektowego składa się z następujących etapów:
 
 Wybór instytucjonalnej formy realizacji projektu.
@@ -130,36 +130,48 @@ Opracowanie planu pracy zespołu projektowego.
 Zatwierdzenie organizacji i planu pracy zespołu projektowego.
 Zatwierdzenie organizacji i planu pracy zespołu projektowego przez kierownictwo.
 
+
 # Planowanie projektu
+Na tym etapie powstaje wstępny plan projektu, określamy jego strukturę oraz przebieg. Jak widać etap ten jest bardzo ważny i będzie miał znaczący wpływ na późniejsze fazy. Tutaj również możemy wyróżnić podetapy takie jak:
 
-Określanie struktury projektu.
-sprecyzowanie celów projektu
-zebranie dodatkowych informacji dotyczących projektu
-ustalenie kryteriów podziału projektu
-określenie struktury hierarchicznej projektu
-określenie struktury koordynacyjnej projektu
-zatwierdzenie struktury projektu przez kierownictwo
-Planowanie przebiegu projektu.
-określenie czasu realizacji czynności projektu
-planowanie terminów realizacji czynności projektu
-obliczenie rezerw czasu
-określenie krytycznych elementów projektu
-weryfikację przebiegu projektu
-zatwierdzenie planu przebiegu projektu przez kierownictwo
-Planowanie zasobów projektu.
-Organizowanie wykonawstwa projektu.
-Na tym etapie powstaje plan projektu, który jest formalnie zatwierdzonym dokumentem używanym w czasie zarządzania oraz kontroli i realizacji projektu. Plan projektu wg. M. Pawlaka powinien zawierać:
+## Określanie struktury projektu.
++ sprecyzowanie celów projektu
++ zebranie dodatkowych informacji dotyczących projektu
++ ustalenie kryteriów podziału projektu
++ określenie struktury hierarchicznej projektu
++ określenie struktury koordynacyjnej projektu
++ zatwierdzenie struktury projektu przez kierownictwo
 
-Potrzeby, cele i wymagania.
-Określenie zadań, ich struktury i zakresu.
-Charakterystykę podejścia technicznego.
-Harmonogram.
-Określenie struktury organizacyjnej projektu.
-Dobór pracowników i określenie odpowiedzialności za zadania.
-Budowę budżetu i analizę ryzyka.
+## Planowanie przebiegu projektu.
++ określenie czasu realizacji czynności projektu
++ planowanie terminów realizacji czynności projektu
++ obliczenie rezerw czasu
++ określenie krytycznych elementów projektu
++ weryfikację przebiegu projektu
++ zatwierdzenie planu przebiegu projektu przez kierownictwo
+
+## Planowanie zasobów projektu.
+## Organizowanie wykonawstwa projektu.
+Na tym etapie powstaje plan projektu, który jest formalnie zatwierdzonym dokumentem używanym w czasie zarządzania oraz kontroli i realizacji projektu. 
+## Plan projektu
++ Potrzeby, cele i wymagania.
++ Określenie zadań, ich struktury i zakresu.
++ Charakterystykę podejścia technicznego.
++ Harmonogram.
++ Określenie struktury organizacyjnej projektu.
++ Dobór pracowników i określenie odpowiedzialności za zadania.
++ Budowę budżetu i analizę ryzyka.
+
+# Realizowanie projektu
+Gdy już mamy zaplanowane wszystkie działania, nie pozostaje nic innego jak zacząć go realizować. Na tym etapie należy krok po kroku osiągnąć cele zawarte w planie. Na tym etapie należy podzielić pracę między członków zespołu. Kierownik projektu powinien zwrócić uwagę na następujące sprawy:
+
++ Określenie zasobów niezbędnych do wykonania planu.
++ Przydzielenie zadań członkom zespołu.
++ Opracowanie harmonogramu.
++ Wprowadzenie planu w życie.
 
 
-## Kontrola i monitorowanie
+# Kontrola i monitorowanie
 Kontrola nad projektem ma w zasadzie miejsce przez cały cykl życia projektu, jest ona niezbędna do uniknięcia błędów na etapie realizacji projektu. Podstawowymi dziedzinami kontroli są:
 
 Kondycja ekonomiczno-finansowa przedsiębiorstwa.
@@ -183,7 +195,7 @@ Porównanie wyników z normami.
 Ocena wyników i reagowanie.
 Zmiana norm, korekta odchyleń lub utrzymanie status quo.
 
-## Zamykanie projektu odbywa się w następujących etapach:
+# Zamykanie projektu odbywa się w następujących etapach:
 
 Odbiór projektu przez zleceniodawcę.
 Rozliczenie projektu.
