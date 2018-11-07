@@ -1,0 +1,34 @@
+software:
+  type:
+    - os
+    - ide
+    - devops
+    - client
+    - server    
+    - testing
+    
+hardware:
+  - size
+    unit: 
+      - inch
+      - mm
+      - cm
+      - m
+  - quantity
+    unit:
+      - pcs
+      - package
+      - box
+      
+worker:
+  - assistant
+    - customer
+    - internal
+    - external
+    - call center
+  - developer
+    - frontend
+    - backend
+    
+  
+    
