@@ -13,7 +13,7 @@ Zrządzanie projektami, wymiary zarządzania projektami
 Cykl życia projektu
 Cykl zarządzania projektem
 
-Parametry projektu:
+## Parametry projektu:
 
 - zakres
 
@@ -23,19 +23,20 @@ Parametry projektu:
 
 - koszty
 
-Zakres.
+
+## Zakres.
 
 Projekt jest przedsięwzięciem, które musi doprowadzić do osiągnięcia określonego wyniku uzależnionego od zamawiającego projekt. Oznacza to też rozmiar działań, jakie należy przeprowadzić.
 
-Czas.
+## Czas.
 
 Rozumiany jako okres, w którym projekt powinien być realizowany, co oznacza ukończenie zadań we właściwym czasie.
 
-Wymagania.
+## Wymagania.
 
 Jakość projektu, osiągniętego wyniku. Często ściśle związana z zakresem realizowanych działań.
 
-Koszty.
+## Koszty.
 
 Zazwyczaj określone w postaci limitów nakładów, które nie powinny być przekroczone. Koszty są funkcją zakresu, czasu i wymagań odnośnie projektu.
 
@@ -65,3 +66,30 @@ Zarządzanie projektami jest dziedziną zarządzania zajmującą się zastosowan
 Powyższe osiągane jest przez harmonizację współdziałania uczestników projektu.
 
 Zarządzanie projektami to upewnienie się, że projekt efektownie i efektywnie wykorzysta zasoby w celu realizacji uzgodnionych celów.
+
+## Inicjacja projektu.
+
+Czynniki sukcesu
+Cykl realizacji projektu
+Przebieg inicjowania projektu
+Techniki oceny i wyboru inicjatyw projektu
+
+
+## Przyczyny niepowodzeń projektów:
+
+- ustanie zapotrzebowania na produkt projektu
+
+- brak planowania
+
+- zmiany wymagań
+
+- nierealne oczekiwania
+
+- brak zasobów
+
+- brak zaangażowania użytkowników
+
+- nieprecyzyjne określenie wymagań
+
+
+
