@@ -43,7 +43,9 @@ praca programisty, praca z kodem.
     }
   }
 
-Obsluga kodu
+
+## Obsluga kodu
+![graph](https://vodapi.com/wp-content/uploads/2018/11/zenuml-7.png)
 
   @Starter(Code)
 
