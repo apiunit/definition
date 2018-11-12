@@ -29,7 +29,7 @@ Warto przeprowadzic symulacje praktyczna po definicji tych standardow:
 
 ## Przyklad 
 praca programisty, praca z kodem.
-https://vodapi.com/wp-content/uploads/2018/11/zenuml-5.png
+![graph](https://vodapi.com/wp-content/uploads/2018/11/zenuml-5.png)
 
 
 // https://docs.zenuml.com/
