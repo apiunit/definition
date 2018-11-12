@@ -1,4 +1,5 @@
-# Documentation for vodapi.
+# Documentation for VodaPi.
+
 
 ## How it works
 
