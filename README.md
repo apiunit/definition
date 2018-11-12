@@ -30,6 +30,7 @@ Przyklad praca programisty, praca z kodem.
 
 // https://docs.zenuml.com/
 
+
   @Starter(Developer)
   Code.writing()
   {
