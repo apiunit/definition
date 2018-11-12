@@ -26,7 +26,11 @@ VodaPI jest dokumentacja dotyczaca wszystkich spraw koniecznych do realizacji za
 VodaPi poprawia komunikacje, dzieki definiowanie scislych zasad obowiazujacych w trakcie funkcjonowania zespolu.
 
 Warto przeprowadzic symulacje praktyczna po definicji tych standardow:
-Przyklad praca programisty, praca z kodem.
+
+## Przyklad 
+praca programisty, praca z kodem.
+https://vodapi.com/wp-content/uploads/2018/11/zenuml-5.png
+
 
 // https://docs.zenuml.com/
 
