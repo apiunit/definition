@@ -15,7 +15,7 @@ Za pomoca definicji pliki yaml w formacie zdefiniowanym przez obecny standard vo
 version.vodapi.com
 
  
-## Definiowanie i konfigurowanie srodowiska dla zespolu w firme poprzez VodaPI
+## Definiowanie i konfigurowanie srodowiska dla zespolu w firme poprzez APIUnit
 
 Definicja zawiera Dane odnosnie srodowiska dla kwestii nietechniczynych, niemozliwych do zmiany poporzez skrypt.
 
@@ -58,18 +58,3 @@ praca programisty, praca z kodem.
         }
      }  
   }
-
-
-## Apicra
-
-Zalecanym zestawem standardow dla zdefiniowania i stworzenia architektury aplikacji jest apicra, ktory jest przy okazji naturalnym zapisem procesow, oraz ich dokumentacja.
-
-Apicra definiuje architekture kazdego technicznego elementu systemu.
-
-Apicra bazuje na wzorcach i architekturach, ktore funkcjonuja ponad jezykami. np model MVC.
-
-Dzieki czemu latwe jest stworzenie zmian migration, np update/downgrade.
-
-Apicra zawiera definicje architektury aplikacji, dzieki czemu mozliwe jest klarowne zdefiniowanie, kodu oraz bazy danych w dowolnym jezyku programowania, dzieki kreatorom kodu, generatorom zapytan oraz klas, obiektow.
-
-Apicra definiuje aplikacje definiowanym przez rozne rozwiazania techniczne, gdzie jest lista skryptow jakie maja byc uzywane podczas uzywania aplikacji od strony dewelopera podczas testowania, wydawania aplikacji produkcyjnej i testowej.
